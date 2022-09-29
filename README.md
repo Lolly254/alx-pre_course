@@ -1,2 +1,2 @@
-My first readme
+My first readme\n
 This file is updated on github
